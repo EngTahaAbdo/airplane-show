@@ -1,5 +1,7 @@
-/* svg */
-/* 34an a3dll 3 bootstrab lazm ast5dem el var */
-/* .bg-dark{
-    background-color: var(--cyan)!important;
-} */
+.scale:hover {
+	transform: scale(1.2);
+}
+
+.card {
+	transition: all .5s ease-in-out;
+}
